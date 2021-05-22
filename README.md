@@ -15,6 +15,6 @@ Given an image of a sudoku grid, it performs following steps:
 # TO-DO
 1. Add the functionality of generating a Sudoku
 2. Add the option to try out various methods to solve the Sudoku
-  i. Dancing Links
- ii. Spiral Backtracking 
-iii. Reverese Backtracking
+  1. Dancing Links
+  2. Spiral Backtracking 
+  3. Reverese Backtracking
