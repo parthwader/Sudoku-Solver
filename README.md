@@ -9,3 +9,5 @@ Given an image of a sudoku grid, it performs following steps:
 5. Extraction of each cell of 9x9 grid
 6. Using KNN to perform OCR
 7. Solving the sudoku using recursion and backtracking
+
+Note: A gif is included showing the working of the project
