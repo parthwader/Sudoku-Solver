@@ -1,3 +1,5 @@
+Note: A gif is included showing the working of the project
+
 # Sudoku-Solver
 Given an image of a sudoku grid, it performs following steps:
 
@@ -10,4 +12,9 @@ Given an image of a sudoku grid, it performs following steps:
 6. Using KNN to perform OCR
 7. Solving the sudoku using recursion and backtracking
 
-Note: A gif is included showing the working of the project
+# TO-DO
+1. Add the functionality of generating a Sudoku
+2. Add the option to try out various methods to solve the Sudoku
+  i. Dancing Links
+ ii. Spiral Backtracking 
+iii. Reverese Backtracking
