@@ -17,4 +17,5 @@ Given an image of a sudoku grid, it performs following steps:
 2. Add the option to try out various methods to solve the Sudoku :                        
    a) Dancing Links                                                              
    b) Spiral Backtracking                                                                
-   c) Reverese Backtracking                                                                      
+   c) Reverese Backtracking
+3. Use Random Forests Classification for better accuracy
