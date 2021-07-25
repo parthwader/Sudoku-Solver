@@ -4,7 +4,7 @@ Note: A gif is included showing the working of the project
 Given an image of a sudoku grid, it performs following steps:
 
 1. Gaussian Blur to remove noise
-2. Canny edge detection using Otsu threshold values
+2. Canny edge detection 
 3. Extraction of largest contour
 3. Perspective transform (homography) to get top view
 4. Adaptive thresholding to get binary image
