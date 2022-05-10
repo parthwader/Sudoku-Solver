@@ -1,4 +1,4 @@
-Note: A gif is included showing the working of the project
+Note: A gif is included named as temp.gif showing the working of the project
 
 # Sudoku-Solver
 Given an image of a sudoku grid, it performs following steps:
