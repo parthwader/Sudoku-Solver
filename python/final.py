@@ -15,10 +15,10 @@ slv = sudoku(grid)
 ifSolved = slv.solve()
 
 if ifSolved == True:
-    print("After solving the sudoku is :")
+    print("After solving the sudoku looks like :")
     print()
     slv.show()
 else:
-    print("Couldn't Solve")
+    print("Could not Solve")
 
 # C:\Users\Vikas Sharma\IdeaProjects\sudoku-solver\python_without_gui\Pics\Train_data
